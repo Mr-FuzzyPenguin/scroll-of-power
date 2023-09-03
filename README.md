@@ -7,7 +7,7 @@ This was a project to animate the solving of all the variables from each of the 
 ## Demo
 
 Here is a preview of the GIF:
-![](https://github.com/scroll-of-power/scroll-of-power.gif
+![](https://github.com/scroll-of-power/scroll-of-power.gif)
 
 
 ## Inspiration
